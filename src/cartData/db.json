@@ -1,0 +1,22 @@
+{
+  "cart": [
+    {
+      "id": "1",
+      "title": "Wristwatch",
+      "price": 30,
+      "description": "golden wristwatch for pap"
+    },
+    {
+      "id": "4",
+      "title": "Wristband",
+      "price": 10,
+      "description": "golden wristwatch for kids"
+    },
+    {
+      "id": "5210",
+      "title": "Women fresh necklace",
+      "description": "All Gold",
+      "price": "80"
+    }
+  ]
+}
